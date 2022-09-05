@@ -1,0 +1,19 @@
+{
+    "name": "unitedworldwrestling/countrycio",
+    "description": "Country list with ISO and IOC codes",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Unitedworldwrestling\\Countrycio\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "UWW IT",
+            "email": "it@uww.org"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
